@@ -1,0 +1,54 @@
+header{
+	background-color: #A2006E;
+	color: #FFBEEF;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+    text-align: left;
+    max-width: 80%;
+    margin-inline: auto;
+}
+
+.top {
+	text-align: center;
+}
+
+blockquote {
+    border-left: 3px solid #FFBEEF;
+    padding-left: 0.5em;
+}
+
+.nextTalk{
+    max-width: 80%;
+    margin-inline: auto;
+    text-align: left;
+}
+
+.foot {
+	max-width: 80%;
+	margin-inline: auto;
+	text-align: left;
+}
+
+a:link {
+	color: #A2006E;
+	text-decoration: none;
+}
+a:visited {
+	color: #5D0096;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
